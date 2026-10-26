@@ -15,8 +15,8 @@ caudal_importado <- read_csv(file.path(data_out,"caudal_cuenca_liucura.csv"))
 precip_importada <- read_csv(file.path(data_out,"precipitacion_cuenca_liucura.csv"))
 
 # Asegurar que la columna 'date' tenga la estructura temporal correcta
-caudal_importado$date <- ymd(caudal_importado_liucura$date); caudal_importado
-precip_importada$date <- ymd(precip_importada_liucura$date)
+caudal_importado$date <- ymd(caudal_importado$date); caudal_importado
+precip_importada$date <- ymd(precip_importada$date)
 
 #Unir ambas series en un solo objeto relacional usando la fecha como llave
 balance_catchment <- precip_importada %>%
