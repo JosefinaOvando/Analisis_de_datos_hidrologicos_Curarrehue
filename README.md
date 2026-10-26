@@ -1,7 +1,7 @@
-# Análisis de Datos Hidrológicos Curarrehue
+# Análisis de Datos Hidrológicos Liucura
 (Curso Visualización Datos Medioambientales PUC)
 
-Exploración inicial de series hidrológicas y meteorológicas de la cuenca Río Trancura Antes Río Llafenco (9414001), a partir de datos de CAMELS-CL.
+Exploración inicial de series hidrológicas y meteorológicas de la cuenca Rio Liucura En Liucura (9416001), a partir de datos de CAMELS-CL.
 
 ## Estructura del repositorio
 - datos/: Datos originales y procesados.
