@@ -1,5 +1,11 @@
 #EDA 
 
+
+# Explorar la estructura de los datos crudos
+head(datos_cuenca)
+tail(datos_cuenca)
+str(datos_cuenca)
+
 glimpse(datos)
 head(datos)
 
