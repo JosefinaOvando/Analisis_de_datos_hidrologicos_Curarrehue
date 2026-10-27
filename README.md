@@ -2,12 +2,13 @@
 **Curso Visualización Datos Medioambientales**
 Pontificia Universidad Católica de Chile
 
-Exploración inicial de series hidrológicas y meteorológicas de la cuenca Rio Liucura En Liucura (9416001), a partir de datos de CAMELS-CL.
+Exploración inicial de series hidrológicas y meteorológicas de la sincuenca Rio Liucura En Liucura.
 
-#Contexto
+# Contexto
 
 Comprender el comportamiento hidrológico de una cuenca requiere analizar cómo varían las precipitaciones, los caudales y otras variables meteorológicas a lo largo del tiempo.
-Este proyecto se enfoca en la cuenca del río Liucura, en la Región de La Araucanía, utilizando series temporales diarias de la base de datos CAMELS-CL.
+Se realizará un análisis de las series de tiempo desde el año 1980 hasta el 2020. Es una primera aproximación al funcionamiento hidrológico de la cuenca y permitirá evaluar la información disponible para su posterior utilización en modelos hidrológicos como SWAT+, que integra datos meteorológicos, topográficos, de suelo y cobertura para simular procesos hidrológicos como el transporte de sedimentos y nutrientes.
+
 
 El análisis busca responder una pregunta inicial:
 
