@@ -7,7 +7,7 @@ Exploración inicial de series hidrológicas y meteorológicas de la sincuenca R
 # Contexto
 
 Comprender el comportamiento hidrológico de una cuenca requiere analizar cómo varían las precipitaciones, los caudales y otras variables meteorológicas a lo largo del tiempo.
-Se realizará un análisis de las series de tiempo desde el año 1980 hasta el 2020. Es una primera aproximación al funcionamiento hidrológico de la cuenca y permitirá evaluar la información disponible para su posterior utilización en modelos hidrológicos como SWAT+, que integra datos meteorológicos, topográficos, de suelo y cobertura para simular procesos hidrológicos como el transporte de sedimentos y nutrientes.
+Se realizará un análisis de las series de tiempo desde el año 1980 hasta el 2020. Es una primera aproximación al funcionamiento hidrológico de la cuenca y permitirá evaluar la información disponible para su posterior utilización en modelos hidrológicos como SWAT+.
 
 
 El análisis busca responder una pregunta inicial:
