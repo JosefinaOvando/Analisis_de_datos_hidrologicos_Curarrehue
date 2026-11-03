@@ -11,3 +11,5 @@ library(zoo)
 
 library(readr)
 library(dplyr)
+library(terra)
+library(broom)
