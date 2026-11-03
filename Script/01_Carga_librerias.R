@@ -7,9 +7,8 @@ library(lubridate)
 
 library(RcamelsCL)
 library(zoo)
-
-
 library(readr)
 library(dplyr)
 library(terra)
 library(broom)
+library(purrr)

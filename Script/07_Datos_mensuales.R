@@ -32,3 +32,16 @@ datos_mensuales <- datos %>%
 
 head(datos_mensuales)
 
+############################################
+# 3. GROUP_BY + NEST
+############################################
+
+datos_agrupados <- datos_mensuales %>%
+  
+  group_by(Estacion, Periodo) %>%
+  
+  nest() %>%
+  
+  ungroup()
+
+print(datos_agrupados)
