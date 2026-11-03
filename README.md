@@ -1,8 +1,7 @@
 # Análisis de Datos Hidrológicos de las Subcuencas del Río Trancura y Liucura
 **Curso Visualización Datos Medioambientales**
-Pontificia Universidad Católica de Chile
 
-Exploración inicial de series hidrológicas y meteorológicas de la sincuenca Rio Liucura En Liucura.
+Pontificia Universidad Católica de Chile
 
 # Contexto
 
